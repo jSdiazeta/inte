@@ -1,0 +1,11 @@
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\bin\Debug\CifradoAfin2.exe.config
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\bin\Debug\CifradoAfin2.exe
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\bin\Debug\CifradoAfin2.pdb
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.csproj.AssemblyReference.cache
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.csproj.SuggestedBindingRedirects.cache
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.CifradoAfin2.resources
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.Properties.Resources.resources
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.csproj.GenerateResource.cache
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.csproj.CoreCompileInputs.cache
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.exe
+E:\Universidad Nicolas\Estructura de datos ll\CifradoAfin1\CifradoAfin2\obj\Debug\CifradoAfin2.pdb
